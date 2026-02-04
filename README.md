@@ -38,22 +38,23 @@ Passlib + bcrypt
 
 JWT (OAuth2 Password Flow)
 
-📂 Project Structure
+Project Structure
 social-connect-backend/
- app/
-  main.py
-  database.py
-  models.py
-  schemas.py
-  utils.py
-  oauth2.py
-  config.py
-     routers/
-       users.py
-       auth.py
-       posts.py
-       vote.py
- venv/
- requirements.txt
- README.md
+app/
+main.py
+database.py
+models.py
+schemas.py
+utils.py
+oauth2.py
+config.py
+ routers/
+  users.py
+  auth.py
+  posts.py
+  vote.py
+venv/
+requirements.txt
+README.md
+
 
